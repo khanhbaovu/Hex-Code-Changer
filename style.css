@@ -1,0 +1,26 @@
+
+body {
+  background-color: #D3D3D3;
+}
+.theClick {
+  position: absolute;
+  top: 45%;
+  left: 45%;
+}
+
+h2 {
+  display: inline;
+}
+
+.theClick button {
+  font-size: 20px;
+  margin-top: 10px;
+  display: block;
+  background-color: #A9A9A9;
+  border-style: solid;
+  border-color: inherit;
+}
+
+h2 {
+  color: black;
+}
