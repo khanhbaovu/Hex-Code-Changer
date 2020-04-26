@@ -3,9 +3,11 @@ body {
   background-color: #D3D3D3;
 }
 .theClick {
+  margin: 0;
   position: absolute;
-  top: 45%;
-  left: 45%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%)
 }
 
 h2 {
@@ -15,6 +17,8 @@ h2 {
 .theClick button {
   font-size: 20px;
   margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
   display: block;
   background-color: #A9A9A9;
   border-style: solid;
